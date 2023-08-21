@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://indraneelpatil.github.io/al-folio/sitemap.xml
