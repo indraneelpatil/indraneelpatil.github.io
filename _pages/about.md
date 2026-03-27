@@ -24,4 +24,8 @@ Robotics and I have been busy experimenting, learning and tinkering with robots 
 
 I grew up playing tennis and all kinds of sports. Through sports I learnt (among a lot of other things) that with repetition, consistency and discipline I can get better at and master something seemingly very complex/difficult at first. That no mountain is too high (even C++ template programming in PCL). Lost count of how many times I have applied that learning in engineering and robotics. Sports continues to be a very wise teacher (<a href='https://www.manutd.com/'>GGMU</a>!).
 
-At Carnegie Mellon, my main goal was to study robotics but it was also an important crash course in understanding people. Everyone is built different with different background and experiences and has their own motivations for doing what they do. Maybe to build the best robots we need to study how people work first.
+On my first job at <a href='https://www.greyorange.com'>GreyOrange Robotics</a> I learnt that robotics is a team sport and the best robots are built by the best teams of humans. I was blessed to have worked in what I consider to be the best robotics team in India then.
+
+I have always learnt best through hands on projects than lectures and books. Fortunately <a href='https://www.ri.cmu.edu/'>Carnegie Mellon Robotics Insitute</a> was a Disneyland of robots and I made a lot of memories working on Moonranger the Lunar Rover, RoboSAR: the multi robot search and rescue system and StairMasters the staircase climbing vacuum robot. 
+
+Building real world robots is hard but I like attempting hard things. Difficult Hikes, Improv, Marathons. Those are the ones that put you in a flow state and that give you the most satisfaction whenever you make progress on them. If you are lucky sometimes you have an all star team to help you. And when you fail which you inevitably will, you just try again. If you enjoy this process, life can be fun and very rewarding.
