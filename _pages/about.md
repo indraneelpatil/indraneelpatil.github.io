@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I love building robots! As a sophomore at BITS Pilani Dubai I used to love sitting into 
+My goal in life is to use technology for the greater good. Currently I love building robots! As a sophomore at BITS Pilani Dubai I used to love sitting into 
 random industry talks or research presentations (sometime more than my normal lectures) which BITS used to 
 have loads of. In one such talk by <a href='https://www.fractalsystems.ae/'>Fractal Systems</a> I discovered
 Robotics and I have been busy experimenting, learning and tinkering with robots ever since.
