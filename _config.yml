@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Nuts and Bolts # blog_name will be displayed in your blog page
-blog_description: Some thoughts put together with some nuts and bolts
+blog_description: Adventures on planet earth one nut at a time
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
