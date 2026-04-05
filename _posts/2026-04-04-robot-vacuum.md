@@ -72,6 +72,10 @@ Then we trained a simple CNN with behavior cloning to learn from these expert tr
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
       {% include video.liquid path="https://www.youtube.com/embed/zGY0rvHS8yM?si=BU9wGN6IqaMmkf1A" class="img-fluid rounded z-depth-1 w-100" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+      {% include video.liquid path="https://www.youtube.com/embed/Inz63YVB1as?si=oN5N7GQ2d0eixTMr" class="img-fluid rounded z-depth-1 w-100" %}
+    </div>
+
   </div>
 
 ##### Observations:
