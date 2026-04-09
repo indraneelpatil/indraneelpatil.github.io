@@ -201,5 +201,5 @@ Some limitations:
 4. Robot isnt completely autonomous and gets stuck in places so needs baby sitting while it is cleaning.
 
 **Contact the Team**
-Bruce Kim: <a href="https://x.com/brucekimrok">On X<a> or email brucekimrok@gmail.com
-Indraneel Patil: <a href="https://x.com/IndraneelPati10">On X<a> or email indraneelrajeevpatil@gmail.com
+1. Bruce Kim: <a href="https://x.com/brucekimrok">On X<a> or email brucekimrok@gmail.com
+2. Indraneel Patil: <a href="https://x.com/IndraneelPati10">On X<a> or email indraneelrajeevpatil@gmail.com
