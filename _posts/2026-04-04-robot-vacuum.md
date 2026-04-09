@@ -199,3 +199,7 @@ Some limitations:
 2. We had to use two separate batteries, one to power the vacuum and the other to power the rest of the system because the vacuum motor power on causes a voltage drop in the circuit
 3. No autonomous charging
 4. Robot isnt completely autonomous and gets stuck in places so needs baby sitting while it is cleaning.
+
+**Contact the Team**
+Bruce Kim: <a href="https://x.com/brucekimrok">On X<a> or email brucekimrok@gmail.com
+Indraneel Patil: <a href="https://x.com/IndraneelPati10">On X<a> or email indraneelrajeevpatil@gmail.com
