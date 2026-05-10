@@ -48,9 +48,9 @@ I started working on this checklist about a month before departure and I mostly 
     - CMU should do this
 
 ### Phone Number
-Port to international?
-- Find solution, talk to Hardik
-- Just gonna keep tmobile for now
+1. Port to international?
+    - Find solution, talk to Hardik
+    - Just gonna keep tmobile for now
 
 ### House
 1. What to do about electricity, trash and stuff like that
