@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on feelings on superiority and unchecked concentration of power
 date: 2026-05-06 21:01:00
 description: Some scattered thoughts after a visit to the Resistance Museum and Anne Frank's House in Amsterdam
-tags: ww power superiority musings
+tags: war world power superiority musings
 categories: reflections
 ---
 
@@ -23,4 +23,4 @@ All the above is also valid for "feelings of inferiority". More often than not a
 
 Feelings of superiority and inferiority do much more harm than any good. It leads to an unfair society with differential treatment which has no basis in reality. A rule, society or any institution rooted in such feelings is never sustainable and as history has indicated it usually implodes sooner or later. A world we should aspire to build is the opposite of this, which celebrates everyones individuality, distributes opportunities based on merit and correctly attribute cause of success backed by rational reasoning.
 
-A good follow up exercise to this readings is: what feelings of superiority or inferiority do you harbor? Are they rooted in reality or just simplying assumptions? Are you comfortable challenging these feelings if they are no longer serving you or those around you?
+A good follow up exercise to this reading is: what feelings of superiority or inferiority do you harbor? Are they rooted in reality or just simplying assumptions? Are you comfortable challenging these feelings if they are no longer serving you or those around you?
