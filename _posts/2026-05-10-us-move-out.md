@@ -3,8 +3,8 @@ layout: post
 title: US Moveout Checklist
 date: 2026-05-06 21:01:00
 description: Checklist that I followed while moving from US to India
-tags: moveout checklist musings
-categories: reflections
+tags: moveout checklist
+categories: checklists
 ---
 
 I started working on this checklist about a month before departure and I mostly did this along with my job, so mornings, evenings and weekends.
