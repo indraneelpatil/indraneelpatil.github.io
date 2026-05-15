@@ -7,6 +7,15 @@ tags: vulnerability musings
 categories: reflections
 ---
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/white_board.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">
+    Life principles!
+</div>
+
 One of my main takeaways from 2025 is practicing vulnerability. Being vulnerable means to put yourself out there even if the outcome is uncertain.
 
 From an early age I have often avoided rejection like the plague. Not doing something which has a chance of failure. And also taking failures very personally like it reflects on my entire being. I played a lot of competitive sports growing up but I also quit most of them whenever I faced an intense failure. Because I wanted to avoid the feeling of failure. Because I wanted to avoid being a failure.
