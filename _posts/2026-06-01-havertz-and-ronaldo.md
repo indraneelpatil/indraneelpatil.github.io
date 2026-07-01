@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ronaldo Mindset is all you need
-date: 2026-05-23 21:01:00
+date: 2026-06-01 21:01:00
 description: Story of Havertz and Ronaldo
 tags: havertz ronaldo musings
 categories: reflections
