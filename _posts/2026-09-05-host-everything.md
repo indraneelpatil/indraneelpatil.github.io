@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Host Everything
-date: 2026-07-25 21:01:00
+date: 2026-09-05 21:01:00
 description: Become the captain of your own ship
 tags: captain ship host musings
 categories: reflections
