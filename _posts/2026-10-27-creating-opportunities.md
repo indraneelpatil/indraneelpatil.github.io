@@ -1,0 +1,14 @@
+---
+layout: post
+title: Working Towards an Opportunity Level Harry Kane
+date: 2026-10-12 21:01:00
+description: Does an opportunity just present itself or do you work towards it?
+tags: life time musings
+categories: reflections
+---
+
+Its the Ballon D'or 2026 week and the fresh news is that an English Player is the 2026 Mens Ballon D'or Winner. Harry Kane did it! Whoever watches football knows that Harry's journey to this day has been one of the most extra ordinary stories in football. From being rejected from the Arsenal academy to then joining the Tottenham Academy. Then being loaned to several other clubs before finally being a mainstay in the Tottenham first team. Which finally culminated in a blockbuster move to Bayern Munich. Harry Kane has done it all. Harry Kane put in top drawer performances for years in a Tottenham jersey but it was never the place which could bring him any recognition. There is no individual glory in football without team success. But those years of working on his finishing and playmaking, earned him the well deserved move to a team which does and is expected to win many trophies. Bayern Munich wanted and knew what they were getting in Harry Kane, a proven striker with clinical finishing and that they got. But the journey to that point was anything but linear.
+
+Harry Kane knows what it takes to work on yourself and put in consistent performances year after year and work towards a big opportunity. Sometimes opportunities do just present themselves but they are of no use if you arent ready for them. But more often than not as in the case of Harry Kane, you dont just fall into an opportunity, you work towards it. By consistent performances and an undeniable track record you can not only attact opportunities but also produce opportunities for yourself out of thin air. The converse if also equally true. If your reputation is bad and you are inconsistent and havent worked on yourself, opportunities will actively avoid you and get repelled by you.
+
+So lets say your goal is to be the best in the world at something like Harry Kane. What do you do? You deliver consistent performances year after year. You work on yourself, identify your weaknesses work on them, get better. As long as you are getting better and your results (projects in my case) are improving in quality, the lack of success shouldnt let it discourage you. And then inevitably after a certain threshold, with some luck that big opportunity will definitely come knocking your way and when it does, you know you have worked towards that opportunity. You know you ready to smash that opportunity so then dont wait until you be the best in the world.
