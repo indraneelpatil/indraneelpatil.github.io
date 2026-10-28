@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working Towards an Opportunity Level Harry Kane
-date: 2026-10-12 21:01:00
+date: 2026-10-27 21:01:00
 description: Does an opportunity just present itself or do you work towards it?
 tags: life time musings
 categories: reflections
